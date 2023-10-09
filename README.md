@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@jarbicho83669" target="blank"><img src="https://img.shields.io/twitter/follow/@jarbicho83669?logo=twitter&style=for-the-badge" alt="@jarbicho83669" /></a> </p>
 
-- 🌱 I’m currently learning **MEARN-stack,**
+- 🌱 I’m currently learning **MERN-stack,**
 
 - 💬 Ask me about **react**
 
