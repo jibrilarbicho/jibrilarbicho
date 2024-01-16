@@ -4,9 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibrilarbicho&label=Profile%20views&color=0e75b6&style=flat" alt="jibrilarbicho" /> </p>
 
 
-- 🌱 I’m currently learning **MERN-stack,**
+- 🌱 I’m currently learning **I am currently learning Software Engineering at Jimma University, with a specialization in Deep Learning**
 
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **jibrilarbicho2@gmail.com**
 
