@@ -11,12 +11,7 @@
   <a href="https://www.linkedin.com/in/Jibril-a-299505297">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/jibrilarbicho">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/jarbicho68623">
-    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+
   <img src="https://komarev.com/ghpvc/?username=jibrilarbicho&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" />
 </div>
 
