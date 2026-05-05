@@ -33,6 +33,7 @@ pythonclass JibrilArbicho:
     fun_fact    = "I shipped a PyTorch + LangGraph AI marketplace for real estate 🏠🤖"
 
 🛠️ Tech Stack
+
 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
