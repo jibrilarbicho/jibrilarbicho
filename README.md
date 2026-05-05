@@ -33,8 +33,8 @@ class JibrilArbicho:
     speciality  = ["Odoo ERP Development", "AI/ML Engineering", "Full-Stack Web"]
     email       = "jibrilarbicho2@gmail.com"
 
-    currently   = "Building ERP solutions @ OTech Engineering with Odoo + Python"
-    interests   = ["LLM Agents", "MLOps", "Real Estate Tech", "ERP Automation"]
+    currently   = "Building ERP solutions with Odoo + Python"
+    interests   = ["LLM Agents", "DL", "ERP Automation"]
 
     fun_fact    = "I shipped a PyTorch + LangGraph AI marketplace for real estate 🏠🤖"
 ```
