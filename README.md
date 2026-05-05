@@ -19,7 +19,7 @@
 </div>
 
 🧠 About Me
-pythonclass JibrilArbicho:
+class JibrilArbicho:
     name        = "Jibril Arbicho"
     location    = "Addis Ababa, Ethiopia 🇪🇹"
     role        = "Full-Stack Engineer & AI Developer"
