@@ -24,7 +24,6 @@ class JibrilArbicho:
     name        = "Jibril Arbicho"
     location    = "Addis Ababa, Ethiopia 🇪🇹"
     role        = "Full-Stack Engineer & AI Developer"
-    education   = "B.Sc. Software Engineering — Jimma University (2025)"
     speciality  = ["Odoo ERP Development", "AI/ML Engineering", "Full-Stack Web"]
     email       = "jibrilarbicho2@gmail.com"
 
